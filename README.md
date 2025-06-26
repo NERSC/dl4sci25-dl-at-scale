@@ -14,7 +14,7 @@ This repository contains the example code material for the hands-on event:
 
 ## Links
 
-Slides: 
+Slides: https://drive.google.com/file/d/1NEwNHtkOiEFzQENODEFEZk9jam9uP5a1/view?usp=sharing
 
 NERSC JupyterHub: https://jupyter.nersc.gov
 
