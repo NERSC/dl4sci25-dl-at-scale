@@ -46,7 +46,7 @@ For running slurm jobs on Perlmutter, we will use training accounts which are pr
 * `--reservation=dl4sci` is required to access the set of GPU nodes we have reserved for the duration of the training. 
 
 The code can be run using the `nersc/pytorch:24.08.01` docker container. On Perlmutter, docker containers are run via
-[shifter](https://docs.nersc.gov/development/shifter/), and this container is already downloaded and automatically invoked by our job submission
+[shifter](https://docs.nersc.gov/development/containers/shifter/how-to-use/), and this container is already downloaded and automatically invoked by our job submission
 scripts. Our container is based on the [NVIDIA NGC 24.08 pytorch container](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-24-08.html), with a few additional packages added.
 
 
