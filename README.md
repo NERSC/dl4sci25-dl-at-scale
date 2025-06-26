@@ -7,7 +7,8 @@ This repository contains the example code material for the hands-on event:
 * [Links](#links)
 * [Installation](#installation-and-setup)
 * [Model, data, and code overview](#model-data-and-training-code-overview)
-* [Single GPU quick performance tips](#single-gpu-quick-performance-tips)
+* [Single GPU training](#single-gpu-training)
+* [Single GPU quick performance tips](#single-gpu-quick-optimization-tips)
 * [Distributed training with data parallelism](#distributed-training-with-data-parallelism)
 * [Multi-GPU model parallelism](#model-parallelism)
 
